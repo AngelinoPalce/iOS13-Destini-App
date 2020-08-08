@@ -7,7 +7,7 @@ Learning to Code While Building Apps - I am one of the students of the App Brewe
 Module 10: iOS App Design Pattern Challenge
 
 
-iOS Design App Pattern Challenge : Destini App
+App: Destini App
 
 ![Alt Text](https://media.giphy.com/media/RJyA1cDS48L2UWcEfo/giphy.gif)
 
